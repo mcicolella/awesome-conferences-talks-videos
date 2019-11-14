@@ -1,1 +1,1 @@
-# awesome-conferences-talks-videos
+# Awesome conferences and talks videos
