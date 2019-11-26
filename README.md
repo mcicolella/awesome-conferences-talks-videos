@@ -19,4 +19,5 @@
 
 ### General
 
+* [DockerCon 2019](https://www.docker.com/dockercon/2019-videos/)
 
